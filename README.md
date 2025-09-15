@@ -1,11 +1,11 @@
-# 🏰 Laberinto C++
+# Laberinto C++
 
 Este es un proyecto en **C++** que simula un laberinto de forma procedural.  
 El programa utiliza **DFS (Depth-First Search)** para generar el laberinto y **backtracking** para explorar y encontrar caminos válidos.
 
 ---
 
-## ✨ Características
+## Características
 - 🧱 **Generación automática de laberintos** usando DFS.
 - 🔙 **Exploración con backtracking** para encontrar la salida.
 - 🎯 Algoritmo eficiente y fácil de entender.
@@ -13,13 +13,13 @@ El programa utiliza **DFS (Depth-First Search)** para generar el laberinto y **b
 
 ---
 
-## 🛠️ Requisitos
+## Requisitos
 - **Compilador C++** (por ejemplo, `g++` de MinGW o similar)
 - **Terminal** o consola para ejecutar el binario
 
 ---
 
-## 🚀 Compilación y ejecución
+## Compilación y ejecución
 
 En una terminal, desde la carpeta del proyecto, ejecuta:
 
