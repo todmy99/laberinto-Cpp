@@ -6,10 +6,10 @@ El programa utiliza **DFS (Depth-First Search)** para generar el laberinto y **b
 ---
 
 ## Características
-- 🧱 **Generación automática de laberintos** usando DFS.
-- 🔙 **Exploración con backtracking** para encontrar la salida.
-- 🎯 Algoritmo eficiente y fácil de entender.
-- 💻 Código modular y comentado para facilitar el aprendizaje.
+- **Generación automática de laberintos** usando DFS.
+- **Exploración con backtracking** para encontrar la salida.
+- Algoritmo eficiente y fácil de entender.
+- Código modular y comentado para facilitar el aprendizaje.
 
 ---
 
